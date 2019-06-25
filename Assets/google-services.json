@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "435136961679",
+    "firebase_url": "https://fillingmoon-89e94.firebaseio.com",
+    "project_id": "fillingmoon-89e94",
+    "storage_bucket": "fillingmoon-89e94.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:435136961679:android:ee031c9ccd26ecac",
+        "android_client_info": {
+          "package_name": "com.filling.moon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "435136961679-vil3l0huvp5e00qq2bbv88e7n9uov4r5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkWCfU6CD_Pa9t0u2CkpW0z78JwCr42Vw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "435136961679-vil3l0huvp5e00qq2bbv88e7n9uov4r5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
